@@ -1,0 +1,10 @@
+{
+  "ret": true,
+  "data": {
+    "categories":[{
+        "id": "001",
+        "title": "主食",
+        "imgUrl": "http://www.easyvoa.com/project-img/main.png"
+      }]
+  }
+}
